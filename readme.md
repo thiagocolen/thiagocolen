@@ -21,7 +21,6 @@ pipelines for large-scale applications.
 
 - 🔭 Currently building: [Pinky and the Brain](https://github.com/thiagocolen/pinky-and-the-brain) (Deep Agent service) and [patb-cli](https://github.com/thiagocolen/patb-cli), its Zed IDE/CLI bridge
 - 🌱 Deep diving into: Agentic Systems, Retrieval-Augmented Generation, Prompt Engineering, Anthropic Claude / LLM integration
-- 📋 Public roadmap: [Let's Fail Project](https://github.com/users/thiagocolen/projects/3/views/8) · [Why Let's Fail?](https://thiagocolen.github.io/blog/post/let-s-fail-project-fail-often-fail-cheap-fail-fast)
 
 ---
 
@@ -34,28 +33,12 @@ pipelines for large-scale applications.
 
 ---
 
-## Featured Projects
+## Let's Fail Project
 
-- **[Pinky and the Brain](https://github.com/thiagocolen/pinky-and-the-brain)** — Cloud-native Deep Agent grounded by a custom RAG pipeline (0.900 recall@10), deployed on AWS via Terraform and exposed through ACP, REST/SSE, and MCP.
-- **[patb-cli](https://github.com/thiagocolen/patb-cli)** — Terminal REPL and Zed IDE bridge for Pinky and the Brain, streaming runs in real time.
-- **[Monday Money](https://github.com/thiagocolen/monday-money)** — A lightweight, privacy-focused desktop app for personal finance management.
+**Let's Fail Project** is my personal build-in-public initiative — a living GitHub ecosystem where I
+ship and document experimental software in the open, embracing fast, cheap failure as the fastest
+path to learning. It's the umbrella under which projects like **Pinky and the Brain**, **patb-cli**,
+and **Monday Money** are built.
 
----
-
-## Background
-
-- **Let's Fail Project** — Artificial Intelligence Engineer (Mar 2026 – Present)
-- **Santander Tecnologia Brasil** — Web Application Architect (Mar 2024 – Feb 2026), Technical Lead (Jan 2022 – Apr 2024), Frontend Developer (Apr 2018 – Dec 2021)
-- **Avanade** — Sr. Full Stack Developer (Jan 2017 – Apr 2018)
-- **Natue** — Front-End Developer (Apr 2016 – Jan 2017)
-- **TEx** — Front-End Developer (Oct 2014 – Nov 2015)
-
-**Education:** MBA, Computer/Information Technology Administration and Management — FIAP (2020–2021) · Bachelor's, Desenho Industrial com habilitação em Programação Visual — UNESP (2000–2005)
-
-**Languages:** English (Professional Working) · Portuguese (Fluent)
-
----
-
-<div align="center">
-  <sub>Designed & engineered by Thiago Colen</sub>
-</div>
+- 📋 [Public roadmap](https://github.com/users/thiagocolen/projects/3/views/8)
+- ✍️ [Why Let's Fail?](https://thiagocolen.github.io/blog/post/let-s-fail-project-fail-often-fail-cheap-fail-fast)
