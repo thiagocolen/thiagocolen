@@ -12,12 +12,11 @@
 I build production-grade agentic systems through **Let's Fail Project**, my personal build-in-public
 initiative — a living GitHub ecosystem where I ship and document experimental software in the open.
 Current focus: **Pinky and the Brain**, a cloud-native Deep Agent (LangGraph.js) grounded by a custom
-RAG pipeline, deployed on AWS via Terraform and reachable through an IDE protocol, REST/SSE, and MCP.
-
-That work sits on top of nearly 8 years as a Front-End Developer and Web Architect at
-Santander/F1rst, where I built proprietary front-end and UI frameworks, led Micro Front-End and Web
-Components architectures, and shipped AWS-hosted (S3, Lambda, API Gateway) static deployment
-pipelines for large-scale applications.
+RAG pipeline, deployed on AWS via Terraform and reachable through an IDE protocol, REST/SSE, and MCP —
+work that sits on top of nearly 8 years as a Front-End Developer and Web Architect, building
+proprietary front-end and UI frameworks, leading Micro Front-End and Web Components architectures,
+and shipping AWS-hosted (S3, Lambda, API Gateway) static deployment pipelines for large-scale
+applications.
 
 - 🔭 Currently building: [Pinky and the Brain](https://github.com/thiagocolen/pinky-and-the-brain) (Deep Agent service) and [patb-cli](https://github.com/thiagocolen/patb-cli), its Zed IDE/CLI bridge
 - 🌱 Deep diving into: Agentic Systems, Retrieval-Augmented Generation, Prompt Engineering, Anthropic Claude / LLM integration
