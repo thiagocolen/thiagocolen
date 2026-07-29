@@ -50,12 +50,19 @@ path to learning. It's the umbrella under which projects like **Pinky and the Br
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,aws,terraform,docker,githubactions,tailwind" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" />
   <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/angular" width="40" height="40" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/reactivex" width="40" height="40" alt="RxJS" />
+  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="40" height="40" alt="Web Components" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/terraform" width="40" height="40" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
 </p>
