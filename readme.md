@@ -54,3 +54,8 @@ path to learning. It's the umbrella under which projects like **Pinky and the Br
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,aws,terraform,docker,githubactions,tailwind" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Anthropic" />
+</p>
