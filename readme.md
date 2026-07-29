@@ -9,17 +9,13 @@
 
 ## About Me
 
-I build production-grade agentic systems through **Let's Fail Project**, my personal build-in-public
-initiative — a living GitHub ecosystem where I ship and document experimental software in the open.
-Current focus: **Pinky and the Brain**, a cloud-native Deep Agent (LangGraph.js) grounded by a custom
-RAG pipeline, deployed on AWS via Terraform and reachable through an IDE protocol, REST/SSE, and MCP —
-work that sits on top of nearly 8 years as a Front-End Developer and Web Architect, building
-proprietary front-end and UI frameworks, leading Micro Front-End and Web Components architectures,
-and shipping AWS-hosted (S3, Lambda, API Gateway) static deployment pipelines for large-scale
-applications.
-
-- 🔭 Currently building: [Pinky and the Brain](https://github.com/thiagocolen/pinky-and-the-brain) (Deep Agent service) and [patb-cli](https://github.com/thiagocolen/patb-cli), its Zed IDE/CLI bridge
-- 🌱 Deep diving into: Agentic Systems, Retrieval-Augmented Generation, Prompt Engineering, Anthropic Claude / LLM integration
+I build production-grade agentic systems — most recently **Pinky and the Brain**, a cloud-native Deep
+Agent (LangGraph.js) grounded by a custom RAG pipeline, deployed on AWS via Terraform and reachable
+through an IDE protocol, REST/SSE, and MCP. That work sits on top of nearly 8 years as a Front-End
+Developer and Web Architect, building proprietary front-end and UI frameworks, leading Micro
+Front-End and Web Components architectures, and shipping AWS-hosted (S3, Lambda, API Gateway) static
+deployment pipelines for large-scale applications. I'm currently focused on Agentic Systems,
+Retrieval-Augmented Generation, Prompt Engineering, and Anthropic Claude / LLM integration.
 
 ---
 
@@ -36,8 +32,8 @@ applications.
 
 **Let's Fail Project** is my personal build-in-public initiative — a living GitHub ecosystem where I
 ship and document experimental software in the open, embracing fast, cheap failure as the fastest
-path to learning. It's the umbrella under which projects like **Pinky and the Brain**, **patb-cli**,
-and **Monday Money** are built.
+path to learning. It's the umbrella under which projects like **Pinky and the Brain**, **patb-cli**
+(its Zed IDE/CLI bridge), and **Monday Money** (a privacy-focused personal finance app) are built.
 
 - 📋 [Public roadmap](https://github.com/users/thiagocolen/projects/3/views/8)
 - ✍️ [Why Let's Fail?](https://thiagocolen.github.io/blog/post/let-s-fail-project-fail-often-fail-cheap-fail-fast)
