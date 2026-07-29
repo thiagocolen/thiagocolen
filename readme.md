@@ -6,7 +6,7 @@
 
 🌐  [thiagocolen.github.io](https://thiagocolen.github.io)
 
-💼  [LinkedIn](https://linkedin.com/in/thiagocolen)
+💼  [linkedin.com/in/thiagocolen](https://linkedin.com/in/thiagocolen)
 
 📧  thiago.souzacolen@gmail.com
 
