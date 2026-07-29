@@ -46,3 +46,11 @@ path to learning. It's the umbrella under which projects like **Pinky and the Br
 - 📋 [Public roadmap](https://github.com/users/thiagocolen/projects/3/views/8)
 
 - 💥 [Why "Let's Fail"?](https://thiagocolen.github.io/blog/post/let-s-fail-project-fail-often-fail-cheap-fail-fast)
+
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nodejs,aws,terraform,docker,githubactions,tailwind" />
+  </a>
+</p>
