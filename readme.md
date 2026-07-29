@@ -16,7 +16,7 @@
 
 I build production-grade agentic systems, **Pinky and the Brain**, a cloud-native Deep
 Agent (LangGraph.js) grounded by a custom RAG pipeline, deployed on AWS via Terraform and reachable
-through an IDE protocol, REST/SSE, and MCP. That work sits on top of nearly 8 years as a Front-End
+through an IDE protocol, REST/SSE, and MCP. That work sits on top of a solid experience as a Front-End
 Developer and Web Architect, building proprietary front-end and UI frameworks, leading Micro
 Front-End and Web Components architectures, and shipping AWS-hosted (S3, Lambda, API Gateway) static
 deployment pipelines for large-scale applications. I'm currently focused on Agentic Systems,
