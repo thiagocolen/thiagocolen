@@ -26,31 +26,40 @@ Retrieval-Augmented Generation, Prompt Engineering, and Anthropic Claude / LLM i
 
 ## Tech Stack
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/anthropic" width="20" height="20" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/claude" width="20" height="20" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" />
+</p>
+
 **AI / Agents:** LangChain, LangGraph.js (Deep Agents), Anthropic Claude, RAG (BM25 + vector fusion), MCP, Agent Client Protocol
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript" width="20" height="20" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5" width="20" height="20" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css" width="20" height="20" alt="CSS3" />
+</p>
 
 **Languages:** TypeScript, JavaScript, HTML5, CSS3
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/angular" width="20" height="20" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" />
+  <img src="https://cdn.simpleicons.org/reactivex" width="20" height="20" alt="RxJS" />
+  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="20" height="20" alt="Web Components" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="20" height="20" alt="Tailwind CSS" />
+</p>
+
 **Front-End:** Angular, React, RxJS, Web Components, Micro Front-Ends, Tailwind CSS
 
-**Cloud & DevOps:** AWS (Lightsail, S3, Lambda, CloudFront, API Gateway), Terraform, Docker, GitHub Actions
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Anthropic" />
-  <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain" />
-  <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/angular" width="40" height="40" alt="Angular" />
-  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" />
-  <img src="https://cdn.simpleicons.org/reactivex" width="40" height="40" alt="RxJS" />
-  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="40" height="40" alt="Web Components" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/terraform" width="40" height="40" alt="Terraform" />
-  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/terraform" width="20" height="20" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/docker" width="20" height="20" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="20" height="20" alt="GitHub Actions" />
 </p>
+
+**Cloud & DevOps:** AWS (Lightsail, S3, Lambda, CloudFront, API Gateway), Terraform, Docker, GitHub Actions
 
 ---
 
@@ -68,6 +77,6 @@ path to learning. It's the umbrella under which projects like **Pinky and the Br
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="40" height="40" alt="Daft Punk Octocat - Guy" />
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="40" height="40" alt="Daft Punk Octocat - Thomas" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="100" height="100" alt="Daft Punk Octocat - Guy" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="100" height="100" alt="Daft Punk Octocat - Thomas" />
 </p>
