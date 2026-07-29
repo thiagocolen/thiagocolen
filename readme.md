@@ -34,21 +34,6 @@ Retrieval-Augmented Generation, Prompt Engineering, and Anthropic Claude / LLM i
 
 **Cloud & DevOps:** AWS (Lightsail, S3, Lambda, CloudFront, API Gateway), Terraform, Docker, GitHub Actions
 
----
-
-## Let's Fail Project
-
-**Let's Fail Project** is my personal build-in-public initiative, a living GitHub ecosystem where I
-ship and document experimental software in the open, embracing fast, cheap failure as the fastest
-path to learning. It's the umbrella under which projects like **Pinky and the Brain**, **patb-cli**
-(its Zed IDE/CLI bridge), and **Monday Money** (a privacy-focused personal finance app) are built.
-
-- 📋 [Public roadmap](https://github.com/users/thiagocolen/projects/3/views/8)
-
-- 💥 [Why "Let's Fail"?](https://thiagocolen.github.io/blog/post/let-s-fail-project-fail-often-fail-cheap-fail-fast)
-
----
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Anthropic" />
   <img src="https://cdn.simpleicons.org/claude" width="40" height="40" alt="Claude" />
@@ -65,4 +50,24 @@ path to learning. It's the umbrella under which projects like **Pinky and the Br
   <img src="https://cdn.simpleicons.org/terraform" width="40" height="40" alt="Terraform" />
   <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
   <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+</p>
+
+---
+
+## Let's Fail Project
+
+**Let's Fail Project** is my personal build-in-public initiative, a living GitHub ecosystem where I
+ship and document experimental software in the open, embracing fast, cheap failure as the fastest
+path to learning. It's the umbrella under which projects like **Pinky and the Brain**, **patb-cli**
+(its Zed IDE/CLI bridge), and **Monday Money** (a privacy-focused personal finance app) are built.
+
+- 📋 [Public roadmap](https://github.com/users/thiagocolen/projects/3/views/8)
+
+- 💥 [Why "Let's Fail"?](https://thiagocolen.github.io/blog/post/let-s-fail-project-fail-often-fail-cheap-fail-fast)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="40" height="40" alt="Daft Punk Octocat - Guy" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="40" height="40" alt="Daft Punk Octocat - Thomas" />
 </p>
