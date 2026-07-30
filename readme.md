@@ -29,36 +29,36 @@ Retrieval-Augmented Generation, Prompt Engineering, and Anthropic Claude / LLM i
 ## Tech Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/anthropic" width="20" height="20" alt="Anthropic" />
-  <img src="https://cdn.simpleicons.org/claude" width="20" height="20" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/langchain" width="20" height="20" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/anthropic" width="23" height="23" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/claude" width="23" height="23" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/langchain" width="23" height="23" alt="LangChain" />
 </p>
 
 **AI / Agents:** LangChain, LangGraph.js (Deep Agents), Anthropic Claude, RAG (BM25 + vector fusion), MCP, Agent Client Protocol
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/javascript" width="20" height="20" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5" width="20" height="20" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css" width="20" height="20" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/typescript" width="23" height="23" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript" width="23" height="23" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5" width="23" height="23" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css" width="23" height="23" alt="CSS3" />
 </p>
 
 **Languages:** TypeScript, JavaScript, HTML5, CSS3
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/angular" width="20" height="20" alt="Angular" />
-  <img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" />
-  <img src="https://cdn.simpleicons.org/reactivex" width="20" height="20" alt="RxJS" />
-  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="20" height="20" alt="Web Components" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="20" height="20" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/angular" width="23" height="23" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/react" width="23" height="23" alt="React" />
+  <img src="https://cdn.simpleicons.org/reactivex" width="23" height="23" alt="RxJS" />
+  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="23" height="23" alt="Web Components" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="23" height="23" alt="Tailwind CSS" />
 </p>
 
 **Front-End:** Angular, React, RxJS, Web Components, Micro Front-Ends, Tailwind CSS
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/terraform" width="20" height="20" alt="Terraform" />
-  <img src="https://cdn.simpleicons.org/docker" width="20" height="20" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/githubactions" width="20" height="20" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/terraform" width="23" height="23" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/docker" width="23" height="23" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="23" height="23" alt="GitHub Actions" />
 </p>
 
 **Cloud & DevOps:** AWS (Lightsail, S3, Lambda, CloudFront, API Gateway), Terraform, Docker, GitHub Actions
