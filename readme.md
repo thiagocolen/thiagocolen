@@ -1,16 +1,8 @@
 ![Banner](assets/banner.png)
 
-# Hi, I'm Thiago Colen 👋
-
 **AI Engineering | Agentic Systems (LangGraph/Deep Agents) & RAG | TypeScript, Anthropic Claude, AWS/Terraform | Software Engineering | Front-End Development**
 
-📍 São Paulo, Brazil
-
-🌐  [thiagocolen.github.io](https://thiagocolen.github.io)
-
-💼  [linkedin.com/in/thiagocolen](https://linkedin.com/in/thiagocolen)
-
-📧  thiago.souzacolen@gmail.com
+📍 São Paulo, Brazil &nbsp;•&nbsp; 🌐 [thiagocolen.github.io](https://thiagocolen.github.io) &nbsp;•&nbsp; 💼 [linkedin.com/in/thiagocolen](https://linkedin.com/in/thiagocolen) &nbsp;•&nbsp; 📧 thiago.souzacolen@gmail.com
 
 ---
 
@@ -29,36 +21,36 @@ Retrieval-Augmented Generation, Prompt Engineering, and Anthropic Claude / LLM i
 ## Tech Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/anthropic" width="23" height="23" alt="Anthropic" />
-  <img src="https://cdn.simpleicons.org/claude" width="23" height="23" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/langchain" width="23" height="23" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/anthropic" width="35" height="35" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/claude" width="35" height="35" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/langchain" width="35" height="35" alt="LangChain" />
 </p>
 
 **AI / Agents:** LangChain, LangGraph.js (Deep Agents), Anthropic Claude, RAG (BM25 + vector fusion), MCP, Agent Client Protocol
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/typescript" width="23" height="23" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/javascript" width="23" height="23" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/html5" width="23" height="23" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css" width="23" height="23" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/typescript" width="35" height="35" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/javascript" width="35" height="35" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5" width="35" height="35" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css" width="35" height="35" alt="CSS3" />
 </p>
 
 **Languages:** TypeScript, JavaScript, HTML5, CSS3
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/angular" width="23" height="23" alt="Angular" />
-  <img src="https://cdn.simpleicons.org/react" width="23" height="23" alt="React" />
-  <img src="https://cdn.simpleicons.org/reactivex" width="23" height="23" alt="RxJS" />
-  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="23" height="23" alt="Web Components" />
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="23" height="23" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/angular" width="35" height="35" alt="Angular" />
+  <img src="https://cdn.simpleicons.org/react" width="35" height="35" alt="React" />
+  <img src="https://cdn.simpleicons.org/reactivex" width="35" height="35" alt="RxJS" />
+  <img src="https://cdn.simpleicons.org/webcomponentsdotorg" width="35" height="35" alt="Web Components" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="35" height="35" alt="Tailwind CSS" />
 </p>
 
 **Front-End:** Angular, React, RxJS, Web Components, Micro Front-Ends, Tailwind CSS
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/terraform" width="23" height="23" alt="Terraform" />
-  <img src="https://cdn.simpleicons.org/docker" width="23" height="23" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/githubactions" width="23" height="23" alt="GitHub Actions" />
+  <img src="https://cdn.simpleicons.org/terraform" width="35" height="35" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/docker" width="35" height="35" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="35" height="35" alt="GitHub Actions" />
 </p>
 
 **Cloud & DevOps:** AWS (Lightsail, S3, Lambda, CloudFront, API Gateway), Terraform, Docker, GitHub Actions
@@ -78,7 +70,7 @@ path to learning. It's the umbrella under which projects like **Pinky and the Br
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif" width="100" height="100" alt="Daft Punk Octocat - Guy" />
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" width="100" height="100" alt="Daft Punk Octocat - Thomas" />
 </p>
