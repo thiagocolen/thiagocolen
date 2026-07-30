@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # Hi, I'm Thiago Colen 👋
 
 **AI Engineering | Agentic Systems (LangGraph/Deep Agents) & RAG | TypeScript, Anthropic Claude, AWS/Terraform | Software Engineering | Front-End Development**
