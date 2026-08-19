@@ -1,6 +1,6 @@
 ![Banner](assets/banner.png)
 
-**AI Engineering | Agentic Systems (LangGraph/Deep Agents) & RAG | TypeScript, Anthropic Claude, AWS/Terraform | Software Engineering | Front-End Development**
+**Software Engineering | Front-End Development | AI Engineering | Agentic Systems (LangGraph/Deep Agents) & RAG | TypeScript, Anthropic Claude, AWS/Terraform**
 
 📍 São Paulo, Brazil &nbsp;•&nbsp; 🌐 [thiagocolen.github.io](https://thiagocolen.github.io) &nbsp;•&nbsp; 💼 [linkedin.com/in/thiagocolen](https://linkedin.com/in/thiagocolen) &nbsp;•&nbsp; 📧 thiago.souzacolen@gmail.com
 
